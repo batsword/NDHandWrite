@@ -1,0 +1,16 @@
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\bin\Debug\Test.exe
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\bin\Debug\Test.pdb
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\bin\Debug\MyTablet.dll
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\bin\Debug\NDDomain.dll
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\bin\Debug\MyTablet.pdb
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\bin\Debug\NDDomain.pdb
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\obj\x86\Debug\MainWindow.baml
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\obj\x86\Debug\MainWindow.g.cs
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\obj\x86\Debug\App.g.cs
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\obj\x86\Debug\Test_MarkupCompile.cache
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\obj\x86\Debug\Test.g.resources
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\obj\x86\Debug\Test.Properties.Resources.resources
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\obj\x86\Debug\Test.exe
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\Test\obj\x86\Debug\Test.pdb

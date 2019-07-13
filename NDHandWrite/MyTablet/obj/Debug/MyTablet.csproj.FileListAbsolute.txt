@@ -1,0 +1,76 @@
+C:\Users\glb\Desktop\MyTablet\MyTablet\bin\Debug\MyTablet.dll
+C:\Users\glb\Desktop\MyTablet\MyTablet\bin\Debug\MyTablet.pdb
+C:\Users\glb\Desktop\MyTablet\MyTablet\bin\Debug\IACore.dll
+C:\Users\glb\Desktop\MyTablet\MyTablet\bin\Debug\IALoader.dll
+C:\Users\glb\Desktop\MyTablet\MyTablet\bin\Debug\IAWinFX.dll
+C:\Users\glb\Desktop\MyTablet\MyTablet\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\glb\Desktop\MyTablet\MyTablet\bin\Debug\System.Drawing.dll
+C:\Users\glb\Desktop\MyTablet\MyTablet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\glb\Desktop\MyTablet\MyTablet\obj\Debug\InkTablet.baml
+C:\Users\glb\Desktop\MyTablet\MyTablet\obj\Debug\InkTablet.g.cs
+C:\Users\glb\Desktop\MyTablet\MyTablet\obj\Debug\MyTablet_MarkupCompile.cache
+C:\Users\glb\Desktop\MyTablet\MyTablet\obj\Debug\MyTablet.g.resources
+C:\Users\glb\Desktop\MyTablet\MyTablet\obj\Debug\MyTablet.dll
+C:\Users\glb\Desktop\MyTablet\MyTablet\obj\Debug\MyTablet.pdb
+C:\Users\nalong\Desktop\MyTablet\MyTablet\bin\Debug\MyTablet.dll
+C:\Users\nalong\Desktop\MyTablet\MyTablet\bin\Debug\MyTablet.pdb
+C:\Users\nalong\Desktop\MyTablet\MyTablet\bin\Debug\IACore.dll
+C:\Users\nalong\Desktop\MyTablet\MyTablet\bin\Debug\IALoader.dll
+C:\Users\nalong\Desktop\MyTablet\MyTablet\bin\Debug\IAWinFX.dll
+C:\Users\nalong\Desktop\MyTablet\MyTablet\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\nalong\Desktop\MyTablet\MyTablet\bin\Debug\System.Drawing.dll
+C:\Users\nalong\Desktop\MyTablet\MyTablet\obj\Debug\MyTablet.csprojResolveAssemblyReference.cache
+C:\Users\nalong\Desktop\MyTablet\MyTablet\obj\Debug\InkTablet.baml
+C:\Users\nalong\Desktop\MyTablet\MyTablet\obj\Debug\InkTablet.g.cs
+C:\Users\nalong\Desktop\MyTablet\MyTablet\obj\Debug\MyTablet_MarkupCompile.cache
+C:\Users\nalong\Desktop\MyTablet\MyTablet\obj\Debug\MyTablet.g.resources
+C:\Users\nalong\Desktop\MyTablet\MyTablet\obj\Debug\MyTablet.dll
+C:\Users\nalong\Desktop\MyTablet\MyTablet\obj\Debug\MyTablet.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\bin\Debug\MyTablet.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\bin\Debug\MyTablet.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\bin\Debug\IACore.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\bin\Debug\IALoader.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\bin\Debug\IAWinFX.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\bin\Debug\System.Drawing.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\obj\Debug\InkTablet.baml
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\obj\Debug\InkTablet.g.cs
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\obj\Debug\MyTablet_MarkupCompile.cache
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\obj\Debug\MyTablet.g.resources
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\obj\Debug\MyTablet.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\MyTablet\obj\Debug\MyTablet.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\bin\Debug\MyTablet.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\bin\Debug\MyTablet.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\bin\Debug\IACore.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\bin\Debug\IALoader.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\bin\Debug\IAWinFX.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\bin\Debug\System.Drawing.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\obj\Debug\MyTablet.csprojResolveAssemblyReference.cache
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\obj\Debug\InkTablet.baml
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\obj\Debug\InkTablet.g.cs
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\obj\Debug\MyTablet_MarkupCompile.cache
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\obj\Debug\MyTablet.g.resources
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\obj\Debug\MyTablet.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\MyTablet\obj\Debug\MyTablet.pdb
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\bin\Debug\MyTablet.dll
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\bin\Debug\MyTablet.pdb
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\bin\Debug\IACore.dll
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\bin\Debug\IALoader.dll
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\bin\Debug\IAWinFX.dll
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\bin\Debug\Microsoft.Ink.Analysis.dll
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\bin\Debug\NDDomain.dll
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\bin\Debug\System.Drawing.dll
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\bin\Debug\NDDomain.pdb
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\MyTablet.csprojResolveAssemblyReference.cache
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\InkTablet.baml
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\InkTablet.g.cs
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\TestControl.g.cs
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\MyTablet_MarkupCompile.cache
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\MyTablet_MarkupCompile.lref
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\TestControl.baml
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\MyTablet.g.resources
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\MyTablet.Properties.Resources.resources
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\MyTablet.csproj.GenerateResource.Cache
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\MyTablet.dll
+E:\zyj\new_svn\NDKTV1.0\NDKTV\NDHandWrite\MyTablet\obj\Debug\MyTablet.pdb

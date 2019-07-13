@@ -1,0 +1,70 @@
+C:\Users\glb\Desktop\MyTablet\Test\bin\Debug\Test.exe
+C:\Users\glb\Desktop\MyTablet\Test\bin\Debug\Test.pdb
+C:\Users\glb\Desktop\MyTablet\Test\bin\Debug\MyTablet.dll
+C:\Users\glb\Desktop\MyTablet\Test\bin\Debug\IAWinFX.dll
+C:\Users\glb\Desktop\MyTablet\Test\bin\Debug\IACore.dll
+C:\Users\glb\Desktop\MyTablet\Test\bin\Debug\IALoader.dll
+C:\Users\glb\Desktop\MyTablet\Test\bin\Debug\MyTablet.pdb
+C:\Users\glb\Desktop\MyTablet\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\glb\Desktop\MyTablet\Test\obj\x86\Debug\MainWindow.baml
+C:\Users\glb\Desktop\MyTablet\Test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\glb\Desktop\MyTablet\Test\obj\x86\Debug\App.g.cs
+C:\Users\glb\Desktop\MyTablet\Test\obj\x86\Debug\Test_MarkupCompile.cache
+C:\Users\glb\Desktop\MyTablet\Test\obj\x86\Debug\Test.g.resources
+C:\Users\glb\Desktop\MyTablet\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\glb\Desktop\MyTablet\Test\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\glb\Desktop\MyTablet\Test\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\glb\Desktop\MyTablet\Test\obj\x86\Debug\Test.exe
+C:\Users\glb\Desktop\MyTablet\Test\obj\x86\Debug\Test.pdb
+C:\Users\nalong\Desktop\MyTablet\Test\obj\x86\Debug\Test.exe
+C:\Users\nalong\Desktop\MyTablet\Test\obj\x86\Debug\Test.pdb
+C:\Users\nalong\Desktop\MyTablet\Test\bin\Debug\Test.exe
+C:\Users\nalong\Desktop\MyTablet\Test\bin\Debug\Test.pdb
+C:\Users\nalong\Desktop\MyTablet\Test\bin\Debug\MyTablet.dll
+C:\Users\nalong\Desktop\MyTablet\Test\bin\Debug\IAWinFX.dll
+C:\Users\nalong\Desktop\MyTablet\Test\bin\Debug\IACore.dll
+C:\Users\nalong\Desktop\MyTablet\Test\bin\Debug\IALoader.dll
+C:\Users\nalong\Desktop\MyTablet\Test\bin\Debug\MyTablet.pdb
+C:\Users\nalong\Desktop\MyTablet\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\nalong\Desktop\MyTablet\Test\obj\x86\Debug\MainWindow.baml
+C:\Users\nalong\Desktop\MyTablet\Test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\nalong\Desktop\MyTablet\Test\obj\x86\Debug\App.g.cs
+C:\Users\nalong\Desktop\MyTablet\Test\obj\x86\Debug\Test_MarkupCompile.cache
+C:\Users\nalong\Desktop\MyTablet\Test\obj\x86\Debug\Test.g.resources
+C:\Users\nalong\Desktop\MyTablet\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\nalong\Desktop\MyTablet\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\obj\x86\Debug\Test.exe
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\obj\x86\Debug\Test.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\bin\Debug\Test.exe
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\bin\Debug\Test.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\bin\Debug\MyTablet.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\bin\Debug\IAWinFX.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\bin\Debug\IACore.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\bin\Debug\IALoader.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\bin\Debug\MyTablet.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\obj\x86\Debug\MainWindow.baml
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\obj\x86\Debug\App.g.cs
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\obj\x86\Debug\Test_MarkupCompile.cache
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\obj\x86\Debug\Test.g.resources
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\wpf手写识别\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\bin\Debug\Test.exe
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\bin\Debug\Test.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\bin\Debug\MyTablet.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\bin\Debug\IAWinFX.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\bin\Debug\IACore.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\bin\Debug\IALoader.dll
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\bin\Debug\MyTablet.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\obj\x86\Debug\MainWindow.baml
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\obj\x86\Debug\App.g.cs
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\obj\x86\Debug\Test_MarkupCompile.cache
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\obj\x86\Debug\Test.g.resources
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\obj\x86\Debug\Test.exe
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\obj\x86\Debug\Test.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\bin\Debug\Test.exe.config
+C:\Users\14923\Documents\Visual Studio 2015\Projects\wpf手写识别\NDHandWrite\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
